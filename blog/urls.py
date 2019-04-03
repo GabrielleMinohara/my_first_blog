@@ -10,3 +10,5 @@ urlpatterns = [
     path('post/<int:pk>/edit/', views.post_edit, name='post_edit'),
     path('/redirect/', redirect_view),
 ]
+
+
