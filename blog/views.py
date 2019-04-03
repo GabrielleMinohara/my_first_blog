@@ -6,6 +6,9 @@ from .models import Post
 from django.shortcuts import render, get_object_or_404
 from .forms import PostForm
 
+<<<<<<< HEAD
+>>>>>>> parent of 14887a1... Versão final
+=======
 >>>>>>> parent of 14887a1... Versão final
 
 # Create your views here.
